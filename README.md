@@ -2,6 +2,9 @@
 
 This is a basic to-do list web application built with HTML, CSS, and JavaScript. It's designed to be easy to use and understand.
 
+## Live Demo You can view a live
+demo of the app [here](https://pgautam196.github.io/To-Do-App/). 
+
 **Features:**
 
 *   **Add Tasks:** Quickly add new tasks to your list.
